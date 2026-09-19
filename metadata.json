@@ -1,0 +1,6 @@
+{
+  "name": "OmniAI Workstation",
+  "description": "Кроссплатформенный бесплатный ИИ-ассистент для ПК и Android: чат, голосовой диалог, анализ экрана, генерация картинок, запуск программ и контекстное меню",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
